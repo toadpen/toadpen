@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**toadpen/toadpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🍄Toadpen's Github🍄
+### Programming languages💻   
+#### **Knows✔**:
+- Java
+- Python
+- C# + Unity Engine
+#### **Learning📚**:
+- Javascript, HTML, CSS (Top Priority)
+- C++ / C
+### My Best Projects⭐
+- 💥Discord Nuker Bot - https://github.com/toadai/v-nuker
+- 🎮Short 2D videogame - https://toadpen.itch.io/boulder-attack
+- #### Much more coming soon.
+### Links🔗
+- Website - https://toadpencil.com (Still in development)
+- Youtube - https://www.youtube.com/channel/UCSQ9HXqmwRaAI7Z2TAagTPw
+- Twitter - https://twitter.com/toadpen
+- Discord Server - https://discord.gg/KnsFUUcyu3
+- Discord - **vulv#8049**
