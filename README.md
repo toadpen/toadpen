@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/toadpen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toadpen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17542670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17542670" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucsq9hxqmwraai7z2taagtpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsq9hxqmwraai7z2taagtpw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSQ9HXqmwRaAI7Z2TAagTPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsq9hxqmwraai7z2taagtpw" height="30" width="40" /></a>
 <a href="https://discord.gg/KnsFUUcyu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KnsFUUcyu3" height="30" width="40" /></a>
 </p>
 
